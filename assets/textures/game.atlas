@@ -1,0 +1,111 @@
+
+game.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anyText
+  rotate: false
+  xy: 549, 737
+  size: 145, 93
+  orig: 145, 93
+  offset: 0, 0
+  index: -1
+backgroundWhite
+  rotate: false
+  xy: 485, 541
+  size: 40, 480
+  orig: 40, 480
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 696, 780
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+colorsText
+  rotate: false
+  xy: 549, 832
+  size: 265, 94
+  orig: 265, 94
+  offset: 0, 0
+  index: -1
+gameLogo
+  rotate: false
+  xy: 2, 306
+  size: 451, 232
+  orig: 451, 232
+  offset: 0, 0
+  index: -1
+guttedSquare
+  rotate: false
+  xy: 2, 540
+  size: 481, 481
+  orig: 481, 481
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 816, 863
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 527, 541
+  size: 20, 480
+  orig: 20, 480
+  offset: 0, 0
+  index: -1
+matchItem
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+matchText
+  rotate: false
+  xy: 204, 211
+  size: 244, 93
+  orig: 244, 93
+  offset: 0, 0
+  index: -1
+playText
+  rotate: false
+  xy: 818, 928
+  size: 179, 93
+  orig: 179, 93
+  offset: 0, 0
+  index: -1
+shapesText
+  rotate: false
+  xy: 549, 928
+  size: 267, 93
+  orig: 267, 93
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 204, 158
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 549, 685
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
